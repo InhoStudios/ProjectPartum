@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "159044d9-6111-4054-91d7-8736aa6dada6",
+            "Value": {
+                "id": "8ce4e981-7b80-4cd4-aa96-8cce02ce4842",
+                "resourcePath": "scripts\\get_input\\get_input.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1bdef018-6bb0-408b-a880-d116e48b6d97",
             "Value": {
                 "id": "027086c6-f462-4568-bf98-0be5d6ea5bc4",
                 "resourcePath": "views\\1bdef018-6bb0-408b-a880-d116e48b6d97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "261660fe-46ca-42c6-8885-d82d1c819a38",
+            "Value": {
+                "id": "4ca722ae-cfcc-4056-9d57-389c27e31ded",
+                "resourcePath": "objects\\o_wall\\o_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -143,6 +159,14 @@
             }
         },
         {
+            "Key": "a950a208-71a1-4fa9-adf8-1b24519476f9",
+            "Value": {
+                "id": "31f837ea-d350-4683-ab98-dcfea5c25669",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "aeed3e21-d855-4209-a6dc-227bf56c6745",
             "Value": {
                 "id": "149e987c-6201-4fa6-bfe0-9427022cfb97",
@@ -167,6 +191,14 @@
             }
         },
         {
+            "Key": "bec07809-ff71-420a-9ebc-78169128f568",
+            "Value": {
+                "id": "53ec83ec-3b5d-40e6-bb32-fbf12fd34bc1",
+                "resourcePath": "objects\\input\\input.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bfa9ca81-2889-4bc1-9687-797679d1cc7f",
             "Value": {
                 "id": "8e3c02b0-09f4-4af8-a90b-cae1f0f43a3c",
@@ -180,6 +212,14 @@
                 "id": "9481c60f-e686-4598-8d91-8389fd41cf57",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d1c485c3-4f64-46b5-87ef-21da325f4c5e",
+            "Value": {
+                "id": "3d87336e-a680-4047-9809-ccfb4a494c41",
+                "resourcePath": "scripts\\p_move\\p_move.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -240,7 +280,8 @@
         }
     ],
     "script_order": [
-        
+        "159044d9-6111-4054-91d7-8736aa6dada6",
+        "d1c485c3-4f64-46b5-87ef-21da325f4c5e"
     ],
     "tutorial": ""
 }
